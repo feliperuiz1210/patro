@@ -70,7 +70,7 @@ require_once 'php/conexion.php';
 		<footer id="pie">
 			<small>Derechos Reservados &copy; 2014 </small>
 			<address>
-				<a href=Ã¢ÂÂhttp://www.loquesea.comÃ¢ÂÂ>Carlos Campos & Jose Dussan</a>
+				<a href=Ã¢ÂÂhttp://www.loquesea.comÃ¢ÂÂ>Carlos Campos & Felipe Ruiz</a>
 			</address>
 		</footer>
 	</div>
